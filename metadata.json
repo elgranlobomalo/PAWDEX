@@ -1,0 +1,6 @@
+{
+  "name": "PAWDEX",
+  "description": "",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
